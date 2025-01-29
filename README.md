@@ -1,4 +1,4 @@
 # mysecondripo
 This repository with rubal 
 <br>
-rubal is ullu
+Rubal and Manpreet are friends
